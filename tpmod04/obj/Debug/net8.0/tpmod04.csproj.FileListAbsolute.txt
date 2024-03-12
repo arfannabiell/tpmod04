@@ -1,0 +1,14 @@
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.AssemblyInfoInputs.cache
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.AssemblyInfo.cs
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.csproj.CoreCompileInputs.cache
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\bin\Debug\net8.0\tpmod04.exe
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\bin\Debug\net8.0\tpmod04.deps.json
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\bin\Debug\net8.0\tpmod04.runtimeconfig.json
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\bin\Debug\net8.0\tpmod04.dll
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\bin\Debug\net8.0\tpmod04.pdb
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.dll
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\refint\tpmod04.dll
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.pdb
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\tpmod04.genruntimeconfig.cache
+C:\Users\Arfan\OneDrive\Documents\Tugas Kuliah\KPL\tpmod04\tpmod04\obj\Debug\net8.0\ref\tpmod04.dll
